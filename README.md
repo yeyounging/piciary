@@ -1,6 +1,8 @@
 # 🖼️ Piciary
 
 *make your diary a calender*
+![image](https://github.com/yeyounging/piciary/assets/133792082/136ce6b1-b6ba-40f8-8997-1fe1b40d0a29)
+
 
 Social picture diary APP
 
@@ -11,13 +13,18 @@ Social picture diary APP
 
 ## ⚙️ Program Structure
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/eb0de95b-a121-4928-ad48-5a7df6a353f6/889e4da4-8e5e-41ca-8c2d-ebacc079c133/Untitled.png)
+![image](https://github.com/yeyounging/piciary/assets/133792082/a4c3c0f1-b3aa-4e4b-a389-6d3c102a49a6)
+
+
 
 ## Technology Description
 
-## Dreambooth
+# 1.Dreambooth
 
 we use *Dreambooth - trained the model with 3 characters.
+
+<img width="968" alt="image" src="https://github.com/yeyounging/piciary/assets/133792082/c497c422-4bdf-4ba2-afc5-30cfa9aece1d">
+
 
 - According to the recommended usage, the learning was conducted with the number of image data sets * 100.
 - UNet_Training_steps are 2e-6.
@@ -27,9 +34,13 @@ you can download this model in here : https://huggingface.co/Jaym1207/character_
 
 reference: https://github.com/google/dreambooth
 
-## ChatGPT api
+# 2.ChatGPT api
 
 we use ChatGPT3.5 turbo model to summarize diary in one line.
+
+## Contributer
+
+
 
 ## How to use
 
