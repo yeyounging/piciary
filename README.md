@@ -1,3 +1,5 @@
+Welcome to the piciary wiki!
+
 # 🖼️ Piciary
 
 *make your diary a calender*
@@ -43,14 +45,14 @@ we use ChatGPT3.5 turbo model to summarize diary in one line.
 
 | Profile | Name | Role | Project Repository |
 | :---: | :---: | :---: | :---: |
-| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | 공예영 <br> **yeyounging**| Frontend Service  본인의 역할1  본인의 역할2|[Web-Service](https://github.com/DoTheZ-Team/glue-fe)|
-| <a href="https://github.com/Easymean1207"><img src="https://avatars.githubusercontent.com/u/117882085?v=4" height="120px"></a> | 이지민 <br> **Easymean1207**| Frontend Service 본인의 역할1  본인의 역할2| 
+| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | 공예영 <br> **yeyounging**| Frontend & Backend|
+| <a href="https://github.com/Easymean1207"><img src="https://avatars.githubusercontent.com/u/117882085?v=4" height="120px"></a> | 이지민 <br> **Easymean1207**| Frontend & Modeling| 
 
 
 
 ## How to use
 
-1. download our model - Link
+1. download our model - [Link](https://huggingface.co/Jaym1207/character_model_v1/tree/main)
 2. Get your chatGPT api key and put your key in Flask code.
 3. Run the Flask code
 4. Run the Flutter code
