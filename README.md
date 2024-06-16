@@ -17,7 +17,7 @@ Social picture diary APP
 
 
 
-## Technology Description
+## 💟 Technology Description
 
 # 1.Dreambooth
 
@@ -38,7 +38,13 @@ reference: https://github.com/google/dreambooth
 
 we use ChatGPT3.5 turbo model to summarize diary in one line.
 
-## Contributer
+##👩🏻‍💻 Contributer
+<h3> Team members </h3>
+
+| Profile | Name | Role | Project Repository |
+| :---: | :---: | :---: | :---: |
+| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | 공예영 <br> **yeyounging**| Frontend Service  본인의 역할1  본인의 역할2|[Web-Service](https://github.com/DoTheZ-Team/glue-fe)|
+| <a href="https://github.com/Easymean1207"><img src="https://avatars.githubusercontent.com/u/117882085?v=4" height="120px"></a> | 이지민 <br> **Easymean1207**| Frontend Service 본인의 역할1  본인의 역할2| 
 
 
 
